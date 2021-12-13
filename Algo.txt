@@ -1,0 +1,11 @@
+Algo
+1. Choose the Pizza Restaurant through mobile app or computer
+2. Decide what kind of pizza you would like based off of their menu and pricing
+3. Call to place pizza order
+4. Pickup Pizza in store/delivery
+5. Pay for the pizza
+ a. Pay by credit card
+ b. Pay in cash
+6. If pizza place is delivering you would give them your add address and follow steps 5a and 5b.
+7. Tip the pizza deivery driver or Restaurant
+8. Walk out with Pizza and thank restaurant
